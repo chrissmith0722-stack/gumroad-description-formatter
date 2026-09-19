@@ -1,2 +1,7 @@
 # gumroad-description-formatter
-Convert markdown product copy into Gumroad-friendly plain text.
+
+Strip markdown noise into Gumroad-friendlier plain text.
+
+```bash
+python3 format_desc.py listing.md
+```
